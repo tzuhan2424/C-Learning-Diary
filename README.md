@@ -15,6 +15,8 @@ This diary is my learning journey for learning C lang, and document how I would 
 My Goal for learning C: OS development, Robotics, embedded system development.  
 
 
+# Books reference:
+https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628
 
 
 # PrimeNumber May/1/2024

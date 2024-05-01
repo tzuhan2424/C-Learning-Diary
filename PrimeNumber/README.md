@@ -15,16 +15,37 @@ there are other return type, such as basic datatype(float..), void, you could re
 
 3. Ok, so how do I get user input
 /PrimeNumber/Test/get.c
+scanf, printf  
+https://www.geeksforgeeks.org/scanf-in-c/  
+
+%d to accept input of integers.
+%ld to  accept input of long integers  
+%lld to accept input of long long integers
+%f to accept input of real number.  
+%c to accept input of character types.  
+%s to accept input of a string.
+
+Handle user input looks like way more complicated
+
+4. datatype
+/PrimeNumber/Test/type.c
 
 
 
+
+some backlog question
 1.makefile(/document/makefile.md)
 https://www3.nd.edu/~zxu2/acms60212-40212/Makefile.pdf
 
 
-2.header
-3.how to import function
-4.get user input
-5.condition
-6.pointer
-7.array
+header
+how to import function
+condition
+pointer
+array
+error handling
+
+loop
+is there other faster way to print arr? using pointer, or while?
+
+
