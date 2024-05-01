@@ -1,0 +1,51 @@
+# Object files
+*.o
+
+# Executable files
+*.exe
+*.out
+*.bin
+
+# Debug files
+*.dSYM/
+
+# Build directories
+build/
+debug/
+release/
+
+# Dependency directories
+deps/
+
+# Log files
+*.log
+
+# Backup files created by editors
+*~
+*.bak
+*.swp
+*.tmp
+
+# IDE specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# Makefile generated files
+Makefile.in
+Makefile.out
+
+# Autotools auto-generated files
+configure
+aclocal.m4
+autom4te.cache/
+config.status
+config.log
+config.guess
+config.sub
+stamp-h1
+
+# Archive files
+*.tar
+*.tar.gz
+*.zip
