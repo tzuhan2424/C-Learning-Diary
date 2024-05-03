@@ -1,3 +1,9 @@
+*
+!*.*
+!*.c
+!*.cpp
+!*.h
+
 # Object files
 *.o
 
