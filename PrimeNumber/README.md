@@ -29,17 +29,26 @@ Handle user input looks like way more complicated
 
 4. datatype
 /PrimeNumber/Test/type.c
-
+talk about type, and array
 
 should not upload unix exe file on github
-now, we could write a small program that allow user input number
+- Task A: now, we could write a small program that allow user input number
 and store in some array, and print the array after
 
+5/2 Today try to finish Task A
+```c 
+ int number;
+ scanf("%d", &number);
+```
+scanf require you put address, so you need &
+what would scanf return
+1: If scanf successfully reads an integer from the input and stores it in number, it returns 1, indicating one item was successfully read and assigned.
+0: If scanf fails to read an integer (for example, if the user inputs non-numeric characters where an integer is expected), it returns 0, indicating that no items were successfully read and assigned.
 
 
 
 
-some backlog question
+=====some backlog question=====
 1.makefile(/document/makefile.md)
 https://www3.nd.edu/~zxu2/acms60212-40212/Makefile.pdf
 
