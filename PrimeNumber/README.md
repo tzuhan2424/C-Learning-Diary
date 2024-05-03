@@ -31,6 +31,12 @@ Handle user input looks like way more complicated
 /PrimeNumber/Test/type.c
 
 
+should not upload unix exe file on github
+now, we could write a small program that allow user input number
+and store in some array, and print the array after
+
+
+
 
 
 some backlog question
