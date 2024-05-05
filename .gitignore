@@ -1,9 +1,4 @@
-*
-!*.*
-!*.c
-!*.cpp
-!*.h
-
+bin
 # Object files
 *.o
 

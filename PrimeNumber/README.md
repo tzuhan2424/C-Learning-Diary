@@ -28,7 +28,7 @@ https://www.geeksforgeeks.org/scanf-in-c/
 Handle user input looks like way more complicated
 
 4. datatype
-/PrimeNumber/Test/type.c
+/PrimeNumber/Task/type.c
 talk about type, and array
 
 should not upload unix exe file on github
@@ -44,6 +44,19 @@ scanf require you put address, so you need &
 what would scanf return
 1: If scanf successfully reads an integer from the input and stores it in number, it returns 1, indicating one item was successfully read and assigned.
 0: If scanf fails to read an integer (for example, if the user inputs non-numeric characters where an integer is expected), it returns 0, indicating that no items were successfully read and assigned.
+
+5/5 Condition and loop
+Task B: Condition
+Let's practice some if-else, switch
+Task B: prompt user to enter 1-12, and show the month
+at the same time, I am learning how to use Vim.
+
+Task B-2: use switch to rewrite this program.
+
+
+Ok, let's write loop
+while, do-while, for
+Task C: Number guessing Game
 
 
 
