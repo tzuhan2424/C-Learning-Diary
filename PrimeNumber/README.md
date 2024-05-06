@@ -51,12 +51,11 @@ Let's practice some if-else, switch
 Task B: prompt user to enter 1-12, and show the month
 at the same time, I am learning how to use Vim.
 
-Task B-2: use switch to rewrite this program.
-
-
 Ok, let's write loop
 while, do-while, for
 Task C: Number guessing Game
+Finished the Task C (5/6)
+
 
 
 
